@@ -1,4 +1,4 @@
-# Prefect Data loading POC
+# Prefect Omdena POC
 
 ```bash
 docker pull fabricetouzani/prefect-poc:latest
